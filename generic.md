@@ -133,8 +133,9 @@ team lead.
 ## Education ##
 
  - In 2002 graduated from Anichkov Lyceum in St. Petersburg and entered the
-   Faculty of Technical Cybernetics of SPbSPU, to the Department of Information
-   Systems for Environmental Safety.
+   Faculty of Technical Cybernetics of Saint-Petersburg State Polytechnic
+   University, to the Department of Information Systems for Environmental
+   Safety.
  - In 2006 perfectly defended the work on the "X-ray inspection system for
    welded joints" and received a bachelor's degree in engineering and
    technology in the direction of "Instrument-Making"
@@ -160,6 +161,7 @@ Always happy to advice if I can be of help.
 
 **Interested in**:
 
+ - Unikernels
  - Modern C++
  - C-based open source projects
  - Linux Kernel development
