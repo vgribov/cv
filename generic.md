@@ -13,6 +13,8 @@ you problems right.
 
 An overview of my career includes these highlights:
 
+* Luxoft: As a senior C++ developer I am working with Wayland and Weston to
+  implement HMI for In-Vehicle Infotainment (IVI).
 * Larch Networks: As a lead developer I've participated in creating an
   OpenSwitch ASIC plugin for the newest Marvell Bobcat 3 packet processor. Then
   as a team lead I've ported it on Cortex-A9 CPU with Aldrin PP. I've also
@@ -39,8 +41,9 @@ user friendly GUI based workstation applications. Tired from MFC during my work
 in SKBIS I decided to try Qt and now thats my favourite GUI framework. I used
 it heavily during my work in UnIT and I was always able to achieve the required
 result in a very short time. In 2014 I got carried away with C++11. I've
-written a DHCPv6 server on pure C++11 using only STL and now I am looking for
-new opportunities to work with this wonderful language.
+written a DHCPv6 server on pure C++11 using only STL. Now I am working on a
+cross platform hypervisor based HMI system which is completely written on
+C++11.
 
 ## Scripting languages for testing and automation ##
 
@@ -56,6 +59,8 @@ workstations and discover the Linux kernel sources. Over the past few years
 I've studied Linux along and across. I've ported Linux on at least 3 different
 embedded platforms, working with both U-Boot and kernel sources. I've used
 BuildRoot and Yocto and even handwritten scripts to generate a Linux rootfs.
+Now I concentrate myself on Wayland and it's reference compositor
+implementation - Weston.
 
 ## Real life experience with networking protocols and Marvell chips ##
 
@@ -89,11 +94,22 @@ team lead.
 
 ## Employment ##
 
+### Senior C/C++ Developer in Luxoft, Ukraine ###
+
+<http://www.luxoft.com>
+
+ - **Dates**: 2017 - now.
+ - **Company description**: an international custom software development
+   company with more than 13,000 employees, 42 offices in 21 countries in North
+   America, Western and Eastern Europe, Asia Pacific, and South Africa.
+ - **Responsibilities**: Embedded software development for automotive
+   equipment. HMI and system programming on C/C++.
+
 ### Developer and Team Leader in Larch Networks, Israel ###
 
 <http://www.larch-networks.com>
 
- - **Dates**: 2015 - now.
+ - **Dates**: 2015 - 2017.
  - **Company description**: A systems engineering, implementation and
    deployment company.
  - **Responsibilities**: Embedded software development for networking
