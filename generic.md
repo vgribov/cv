@@ -5,16 +5,15 @@ C/C++ developer.
 ## Summary ##
 
 An experienced C/C++ developer with pragmatic and minimalistic approach. I
-started writing my first C programs and discover Linux Kernel in middle
-school. Now I have a fundamental computer science education and more then 10
-year experience in fields from machine control systems to networking and
-fingerprint recognition. I am not afraid of difficulties and know how to solve
-you problems right.
+started writing my first C programs and discover Linux Kernel in middle school.
+Now I have a fundamental computer science education and more then 10 year
+experience in fields from machine control systems to networking and automotive.
+I am not afraid of difficulties and know how to solve you problems right.
 
 An overview of my career includes these highlights:
 
-* Luxoft: As a senior C++ developer I am working with Wayland and Weston to
-  implement HMI for In-Vehicle Infotainment (IVI).
+* Luxoft: As a senior C++ developer I am working with Qt on behalf of Daimler
+  to implement an HMI for Auxiliary Caravaning Unit.
 * Larch Networks: As a lead developer I've participated in creating an
   OpenSwitch ASIC plugin for the newest Marvell Bobcat 3 packet processor. Then
   as a team lead I've ported it on Cortex-A9 CPU with Aldrin PP. I've also
@@ -41,9 +40,9 @@ user friendly GUI based workstation applications. Tired from MFC during my work
 in SKBIS I decided to try Qt and now thats my favourite GUI framework. I used
 it heavily during my work in UnIT and I was always able to achieve the required
 result in a very short time. In 2014 I got carried away with C++11. I've
-written a DHCPv6 server on pure C++11 using only STL. Now I am working on a
-cross platform hypervisor based HMI system which is completely written on
-C++11.
+written a DHCPv6 server on pure C++11 using only STL. Now I am working on a Qt
+based HMI for Daimler's Auxiliary Caravaning Unit which is completely written
+on C++11 with elements of C++17.
 
 ## Scripting languages for testing and automation ##
 
