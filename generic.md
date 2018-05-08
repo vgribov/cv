@@ -155,7 +155,7 @@ team lead.
    welded joints" and received a bachelor's degree in engineering and
    technology in the direction of "Instrument-Making"
  - In 2008 defended an excellent thesis on "The automatic adjustment system for
-   optical motion sensors" and received a degree of engineering
+   optical motion sensors" and received a master's degree of engineering
    and technology in the direction of Instrument making. Specialized
    "Microprocessor tools and measurement software".
 
