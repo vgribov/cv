@@ -89,7 +89,7 @@ the last several years I have been constantly involved in projects with
 international teams, communicating over the Skype, e-mail, task tickets and
 peer reviews. My colleagues note my responsiveness and ability to maintain a
 friendly atmosphere of mutual assistance, thus the last six months I work as a
-team lead. 
+team lead.
 
 ## Employment ##
 
@@ -140,11 +140,10 @@ team lead.
  - **Dates**: 2007 - 2013
  - **Company description**: Russian manufacturer of motion sensors for
    mechanical engineering.
- - **Responsibilities**: Embedded and workstation software development. Board
-   bring up. Development of microcontrollers based digital devices. Research.
-   Preparation of Terms of Reference. Reports and technical documentation
-   writing in accordance with ISO 9001.
-     
+ - **Responsibilities**: Embedded and workstation software development.
+   Schematics development. Board bring up. Preparation of specifications
+   and documentation. Research.
+
 ## Education ##
 
  - In 2002 graduated from Anichkov Lyceum in St. Petersburg and entered the
