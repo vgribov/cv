@@ -144,6 +144,14 @@ team lead.
    Schematics development. Board bring up. Preparation of specifications
    and documentation. Research.
 
+### Software Developer in X-Pro, Russia ###
+
+<http://www.x-pro.spb.ru>
+ - **Dates**: 2005 - 2007
+ - **Company description**: Russian manufacturer of professional X-ray
+   equipment.
+ - **Responsibilities**: Workstation software development. Research.
+
 ## Education ##
 
  - In 2002 graduated from Anichkov Lyceum in St. Petersburg and entered the
