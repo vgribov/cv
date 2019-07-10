@@ -41,8 +41,8 @@ in SKBIS I decided to try Qt and now thats my favourite GUI framework. I used
 it heavily during my work in UnIT and I was always able to achieve the required
 result in a very short time. In 2014 I got carried away with C++11. I've
 written a DHCPv6 server on pure C++11 using only STL. Now I am working on a Qt
-based HMI for Daimler's Auxiliary Caravaning Unit which is completely written
-on C++11 with elements of C++17.
+based HMI for Daimler which is completely written on C++11 with elements of
+C++17.
 
 ## Scripting languages for testing and automation ##
 
