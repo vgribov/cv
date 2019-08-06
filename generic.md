@@ -42,7 +42,7 @@ it heavily during my work in UnIT and I was always able to achieve the required
 result in a very short time. In 2014 I got carried away with C++11. I've
 written a DHCPv6 server on pure C++11 using only STL. Now I am working on a Qt
 based HMI for Daimler which is completely written on C++11 with elements of
-C++17.
+C++14.
 
 ## Scripting languages for testing and automation ##
 
@@ -183,13 +183,12 @@ Always happy to advice if I can be of help.
 
 **Interested in**:
 
- - Unikernels
  - Modern C++
  - C-based open source projects
  - Linux Kernel development
  - System programming
  - Networking software
  - Embedded Qt
- - Travelling and relocation
+ - Wayland
 
 
