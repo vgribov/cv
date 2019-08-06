@@ -168,7 +168,7 @@ team lead.
 
 ## Languages ##
 
-Russian, Upper-Intermediate English.
+Russian (Native), English (Fluent), German (Intermediate)
 
 ## Personal information ##
 
