@@ -2,6 +2,8 @@
 
 C/C++ developer.
 
+![](./userpic.jpg)
+
 ## Summary ##
 
 An experienced C/C++ developer with a pragmatic and minimalistic approach. I
