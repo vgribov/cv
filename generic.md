@@ -9,7 +9,7 @@ C/C++ developer.
 An experienced C/C++ developer with a pragmatic and minimalistic approach. I
 started writing my first C programs and discover the Linux Kernel in middle
 school. Now I have a fundamental computer science education and more than
-10-year experience in fields from machine control systems to networking and
+11-year experience in fields from machine control systems to networking and
 automotive. I am not afraid of difficulties and know how to solve problems
 right.
 
@@ -50,12 +50,17 @@ written a DHCPv6 server on pure C++11 using only STL. Now I am working on a
 Qt-based HMI for Daimler which is written in QML and C++11 with elements of
 C++14.
 
-## Scripting languages for testing and automation ##
+## Good background in electrical circuits and measurement software ##
 
-I started to use PHP as a hobby and as part-time making web sites while
-studying at university. Then I switched to Perl as a wonderful tool to automate
-my everyday development tasks in SKBIS. Now I use bash scripts, Makefiles, and
-Python for automation, complex feature testing and code generation.
+I've been working for 5 years in SKBIS, a Russian manufacturer of motion
+sensors, developing firmwares and workstation software. I have created from the
+ground up a digital device based on the TMS320 signal processor, which I've
+used to measure, process and adjust signals from motion sensors. I have
+experience with Altium, Multisim and Quartus and worked with Altera FPGAs and
+Verilog language. During my work in Larch Networks, I had to deal with complex
+schematic diagrams of network equipment, adjusting various Linux kernel drivers
+for the hardware. I also have a master's degree in engineering and
+technology specialized in microprocessor tools and measurement software.
 
 ## Solid understanding of Linux on embedded systems ##
 
@@ -79,6 +84,13 @@ for our customers. I've worked on developing an OpenSwitch FPA plugin for
 BobCat3, implementing access lists, VLAN interfaces, and L3 routing. I've
 developed "from scratch" a DHCPv6 server for Panasonic and ported the FPA
 library on Aldrin packet processor.
+
+## Scripting languages for testing and automation ##
+
+I started to use PHP as a hobby and as part-time making web sites while
+studying at university. Then I switched to Perl as a wonderful tool to automate
+my everyday development tasks in SKBIS. Now I use bash scripts, Makefiles, and
+Python for automation, complex feature testing and code generation.
 
 ## Experience with various collaboration software ##
 
