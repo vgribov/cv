@@ -6,7 +6,7 @@ C/C++ developer.
 
 ## Summary ##
 
-An experienced C/C++ developer with a pragmatic and minimalistic approach. I started writing my first C programs and discover the Linux Kernel in middle school. Now I have a fundamental computer science education and more than 12-year experience in fields from machine control systems to networking and automotive. I am not afraid of difficulties and know how to solve problems right.
+An experienced C/C++ developer with a pragmatic and minimalistic approach. I started writing my first C programs and discover the Linux Kernel in middle school. Now I have a fundamental computer science education and more than 12-year experience in fields from machine control systems to networking and automotive. My passion is to make things better.
 
 An overview of my career includes these highlights:
 
@@ -19,8 +19,7 @@ An overview of my career includes these highlights:
 
 I started writing my first C programs in the 8th school's grade. Now I'm a C language native speaker, knowing both POSIX and latest C99 standards and GNU extensions. I wrote programs mostly for reliable embedded systems, starting from small AVR OS-less applications ending with complex Linux-based open-source projects such as OpenSwitch.
 
-In parallel with C, I've been constantly working with C++. Mainly for creating user-friendly GUI based workstation applications. Tired from MFC during my work in SKBIS I decided to try Qt. Now it's my favourite GUI framework. In 2014 I got carried away with C++11. I've written a DHCPv6 server on pure C++11 using only STL. Now I am working on a
-Qt-based HMI for Daimler which is written in QML and C++14.
+In parallel with C, I've been constantly working with C++. Mainly for creating user-friendly GUI based workstation applications. Tired from MFC during my work in SKBIS I decided to try Qt. Now it's my favorite GUI framework. In 2014 I got carried away with C++11. I've written a DHCPv6 server on pure C++11 using only STL. Now I am working on a huge Qt-based HMI project with Daimler which is written in C++14.
 
 ## Solid understanding of Linux for embedded systems ##
 
@@ -37,7 +36,7 @@ During my work in Larch Networks, I had to deal with complex schematic diagrams 
 
 ## Scripting languages for testing and automation ##
 
-I started to use PHP as a hobby and as a part-time job, making web sites while studying at university. Then I switched to Perl as a wonderful tool to automate my everyday development tasks in SKBIS. Currently, I use Python and bash scripts for automation, complex feature testing, and code generation.
+I started to use PHP as a hobby and as a part-time job, making web sites while studying at university. Then I switched to Perl as a wonderful tool to automate my everyday development tasks. Currently, I use Python and bash scripts for automation, complex feature testing, and code generation.
 
 ## Experience with various collaboration software ##
 
@@ -45,7 +44,7 @@ I have worked with various task tracking systems, and collaboration software, su
 
 ## Creativity and self-learning ability ##
 
-I love to write programs. For me, it's an exciting chance to create something new and make our world better. I love code simplicity and minimalistic approach with a focus on using the standard library and avoiding unneeded external dependencies. I can be agile but prefer to have a clear specification with a road map and milestones. Before each new project, I ask myself "what's new I can learn from it?". If nothing I try to introduce this "new" by myself. So I like being a team change agent.
+I love to write programs. For me, it's an exciting chance to create something new and make our world better. I love code simplicity and minimalistic approach with a focus on using the standard library and avoiding unneeded external dependencies. I can be agile but prefer to have a clear specification with a road map and milestones. Before each new project, I tend to ask myself "what's new I can learn from it?". If nothing I try to introduce this "new" by myself. So I like being a team change agent.
 
 ## Communication and leadership skills ##
 
@@ -115,7 +114,7 @@ Russian (Native), English (Fluent), German (Intermediate)
 
 ## Personal information ##
 
-I love jazz music and author's cinema. A few years ago I used to spend my spare time somewhere in the mountains with my snowboard. Now I prefer to be with my family doing all sorts of nonsense with my 2-year-old son.
+I love jazz music and author's cinema. A few years ago I used to spend my holidays in the mountains with my snowboard. Now I prefer to be with my family doing all sorts of nonsense with my 3-year-old son.
 
 ## Contact Settings ##
 
@@ -123,11 +122,11 @@ Please feel free to contact me via my [e-mail](mailto:seva.grbv@gmail.com). Alwa
 
 **Interested in**:
 
+ - Algorithms and data structures
  - Modern C++
  - C-based open source projects
  - Linux Kernel development
  - System programming
  - Networking software
  - Embedded Qt
- - Wayland
 
