@@ -4,14 +4,35 @@
 
 ## Summary ##
 
-An experienced C/C++ developer with a pragmatic and minimalistic approach. I started writing my first C programs and discover the Linux Kernel in middle school. Now I have a fundamental computer science education and more than 12-year experience in fields from machine control systems to networking and automotive. My passion is to make things better.
+An embedded C/C++ (and Go) developer with a simplistic approach.
+
+I started writing my first C/C++ programs and discovering the Linux kernel in middle school. Now, I
+hold a Master of Science in Engineering and have 15 years of experience in areas ranging from
+machine control systems to networking, automotive and aviation. My passion is to make things
+simpler, faster and safer.
 
 An overview of my career includes these highlights:
 
-* *Luxoft GmbH*: As a senior C++ developer I am working with Qt framework on behalf of Daimler to implement HMI for their new infotainment system. I focus mostly on stability and performance issues and responsible for communication with backend services. I also participate in porting the HMI on the Android platform. 
-* *Larch Networks*: As a lead developer, I've participated in creating OpenSwitch ASIC plugin for the newest Marvell Bobcat 3 packet processor. Then as a team lead, I've ported it on Cortex-A9 CPU with Aldrin packet processor. I've also developed "from scratch" a C++ written DHCPv6 server for Panasonic enterprise switches.
-* *UnIT*: Working mostly with Qt, I've developed workstation software for an excise stamps quality control system, a fingerprint recognition system, and a mobile passport issuance system.
-* *SKBIS*: As a result of my university research, I've developed an automatic position sensor adjustment system. I've also developed firmware for 9 of 10 modules in SKBIS's machine tool position control system.
+- **AERQ GmbH**: As a senior embedded developer, I ported LG's WebOS to the 64-bit *VMware*
+  platform. I wrote a simple *Wayland* compositor based on hardware planes that enabled 4K
+  DRM-protected video playback on the *NXP i\.MX 8M* platform. I've integrated *Qt* applications as
+  lightweight *systemd*-containers, learned *Golang* and implemented a custom *K8s* controller to
+  install them on all in-seat displays in a cluster.
+- **Luxoft GmbH**: As a senior C++ developer, I worked with the *Qt* framework on behalf of Daimler
+  to build their in-car infotainment system. I focused mostly on stability and performance issues
+  and communication with backend car services. I also participated in porting the HMI to the
+  Android platform.
+- **Larch Networks**: As a lead developer, I've participated in creating the *OpenSwitch* ASIC
+  plugin for the newest *Marvell Bobcat 3* packet processor. Then, as a team lead, I ported it to
+  the *Cortex-A9* CPU with the *Aldrin* packet processor. I've also developed "from scratch" a
+  *DHCPv6* server for Panasonic enterprise switches, written using only the C++ standard library
+  and Linux syscalls.
+- **UnIT**: Working mostly with *Qt*, I've developed workstation software for an excise stamp
+  quality control system, a fingerprint recognition system, and a mobile passport issuance system.
+- **SKBIS**: As a result of my university research, I've developed an automatic position sensor
+  adjustment system based on the Texas Instruments *TMS320* DSP and the *iC-MQ* interpolator. I
+  developed firmware for most of the machine tool position control system modules and wrote parts
+  of the high-speed logic (mostly counters) in *Verilog*.
 
 ## Perfect knowledge of C/C++ and Qt
 
