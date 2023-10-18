@@ -1,8 +1,6 @@
 # Vsevolod Gribov #
 
-C/C++ developer.
-
-![](./userpic.jpg)
+![](./userpic.png)
 
 ## Summary ##
 
