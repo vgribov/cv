@@ -99,9 +99,14 @@ I developed parts of the *OpenSwitch* ASIC plugin for *BobCat3*, implementing *a
 interfaces*, and *L3 routing*. I developed "from scratch" a *DHCPv6* server and ported the
 Marvell's *FPA* library to the *Aldrin* packet processor.
 
-## Knowledge of electrical circuits and measurement software ##
+## Knowledge of microcontrollers, schematics and measurement technologies
 
-During my work in Larch Networks, I had to deal with complex schematic diagrams of network equipment, adjusting the device tree, and various Linux kernel modules to boards' hardware. I've been working for 5 years in SKBIS, a Russian manufacturer of motion sensors, developing both firmware, and workstation software. I have created from the ground up a digital device based on the TMS320 signal processor, which I've used to measure and adjust signals from motion sensors. I have experience with Altium, Multisim, and Quartus and have worked with Altera FPGAs and Verilog language.
+During my work at Larch Networks, I dealt with complex schematic diagrams of network equipment to
+configure *device trees* and adjust *Linux kernel modules* to the boards' hardware. At SKBIS, I
+designed and implemented a measurement device based on the *TMS320 DSP*, which was used to adjust
+*optical motion sensors*. I worked with *Altium*, *Multisim*, and *Quartus* and had some
+experience with *Altera FPGAs* and *Verilog*. I also wrote firmware for several modules of the
+position control system, which were based on *AVR ATmega* and *AT90* chips.
 
 ## Scripting languages for testing and automation ##
 
