@@ -57,10 +57,19 @@ experience with *Qt/QML* safety, performance and stability issues. I applied thi
 at AERQ, where in just one month I wrote a simple Qt browser application to replace the slow
 JS-based UI for the new in-flight entertainment system.
 
-## Solid understanding of Linux for embedded systems ##
+## Solid understanding of embedded Linux
 
-At the programming classes in the middle school, we used FreeBSD on our workstations and discover the Linux kernel sources. In recent years, I've studied Linux along and across. I've ported Linux on at least 3 different embedded platforms, working both with U-Boot and kernel sources. I've used BuildRoot, Yocto and even some handwritten scripts to generate a Linux root file system. I also have some experience with Wayland, which is used heavily in
-automotive HMIs.
+In the programming classes in the middle school, we used FreeBSD on our workstations and discovered
+the *Linux kernel* sources. Lately, I've studied Linux from different angles. At Larch Networks,
+I've ported Linux to at least three different embedded *ARM*-based platforms, adjusting both
+*U-Boot* and *Linux kernel* sources and writing custom *device trees* based on schematics. I've
+used *BuildRoot*, *Yocto* and even some handwritten scripts to generate a simple Linux root file
+system.
+
+At AERQ I started using *Systemd* containers and *portable services* and wrote *BitBake* receipts to
+produce minimal root filesystems and SDKs for them. I also wrote a simple *Wayland* compositor
+based on *libdrm* and *EGL* to enable hardware-accelerated video playback on the *i\.MX 8M*
+platform.
 
 ## Real life experience with networking protocols and Marvell chips ##
 
