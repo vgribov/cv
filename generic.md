@@ -88,9 +88,16 @@ I am working to integrate native applications, which are run as *Systemd contain
 on each in-seat display as *OCI images* by a custom *K8s* controller written in *Go*. We use
 *buildah* and *Yocto* to produce optimized application images and portable services.
 
-## Real life experience with networking protocols and Marvell chips ##
+## Real-life experience with networking protocols and Marvell chips
 
-I have been working in networking for more than two and a half years. In Larch Networks I worked on creating a security WiFi USB dongle based on TI's Sitara SOC and WL1837MOD. I've also participated in developing a FreeRTOS based solution for clever unmanaged switches with Marvell's AlleyCat3, BobCat2 and BobK packet processors inside. I've worked both with CPSS library and packet processor registers directly, setting up Multicast groups, VLANs and policies for our customers. I've worked on developing an OpenSwitch plugin for BobCat3, implementing access lists, VLAN interfaces, and L3 routing. I've developed "from scratch" a DHCPv6 server for Panasonic and ported the FPA library on Aldrin packet processor.
+I have been working in networking for more than two and a half years at Larch Networks. I worked on
+creating a security *WiFi USB dongle* based on *TI Sitara SOC* and *WL1837MOD*. I also participated
+in developing a *FreeRTOS* based solution for clever unmanaged switches with Marvell's *AlleyCat3*,
+*BobCat2* and *BobK* packet processors inside. I worked both with the Marvell's *CPSS* library and
+packet processor registers directly, setting up *Multicast groups*, *VLANs* and different policies.
+I developed parts of the *OpenSwitch* ASIC plugin for *BobCat3*, implementing *access lists*, *VLAN
+interfaces*, and *L3 routing*. I developed "from scratch" a *DHCPv6* server and ported the
+Marvell's *FPA* library to the *Aldrin* packet processor.
 
 ## Knowledge of electrical circuits and measurement software ##
 
