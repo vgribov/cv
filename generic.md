@@ -34,11 +34,28 @@ An overview of my career includes these highlights:
   developed firmware for most of the machine tool position control system modules and wrote parts
   of the high-speed logic (mostly counters) in *Verilog*.
 
-## Perfect knowledge of C/C++ and Qt
+## Advanced C/C++ knowledge
 
-I started writing my first C programs in the 8th school's grade. Now I'm a C language native speaker, knowing both POSIX and latest C99 standards and GNU extensions. I wrote programs mostly for reliable embedded systems, starting from small AVR OS-less applications ending with complex Linux-based open-source projects such as OpenSwitch.
+I started writing my first C and C++ programs in the 8th grade. Since then, I've written programs
+mostly for embedded systems, starting with small *AVR* bare-bones applications and ending with
+complex networking open-source projects such as OpenSwitch and *Qt*-based HMIs for automotive and
+aviation.
 
-In parallel with C, I've been constantly working with C++. Mainly for creating user-friendly GUI based workstation applications. Tired from MFC during my work in SKBIS I decided to try Qt. Now it's my favorite GUI framework. In 2014 I got carried away with C++11. I've written a DHCPv6 server on pure C++11 using only STL. Now I am working on a huge Qt-based HMI project with Daimler which is written in C++14.
+In 2014, I got carried away with *modern C++*. At Larch Networks, I've written a *DHCPv6* server
+using only the *C++11* standard library. Since then, I've tried to stay aligned with the latest C++
+standards (up to *C++20*) and follow the *Core Guidelines*. At Luxoft and AERQ I've participated in
+the hiring process and performed dozens of C/C++ coding interviews.
+
+## Experience with the Qt Framework (desktop/embedded)
+
+Tired of Microsoft's MFC during my work in SKBIS I decided to try *Qt*. At that time, it was
+Trolltech's Qt 4. Then I moved to Kyiv and started to work in UnIT, where I developed Qt-based HMIs
+for an excise stamp quality control system and a mobile passport issuance system.
+
+At Luxoft, working on in-car infotainment systems for Daimler, I learned *QML* and gathered lots of
+experience with *Qt/QML* safety, performance and stability issues. I applied this knowledge later
+at AERQ, where in just one month I wrote a simple Qt browser application to replace the slow
+JS-based UI for the new in-flight entertainment system.
 
 ## Solid understanding of Linux for embedded systems ##
 
