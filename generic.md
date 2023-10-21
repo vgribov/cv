@@ -119,7 +119,13 @@ of its libraries. For example, at Luxoft I automated the whole API migration pro
 *Python* scripts that analyzed API changes, created corresponding JIRA tasks, and assigned them to
 the developers responsible for the components affected by the changes.
 
-I have worked with various task tracking systems, and collaboration software, such as Redmine, GitLab, BitBucket, Jira, Confluence, Slack, and Zulip. Last 5 years I constantly work with the Scrum framework. I prefer to use Git as a version control system and also have some experience with SVN, CVS, and Mercurial.
+## Experience with various collaboration software
+
+I used to work with various task tracking systems and collaboration software, such as *Redmine*,
+*GitLab*, *BitBucket*, *Jira*, *Confluence*, *Slack* and *MS Teams*.
+
+I mostly use *Git* as a version control system, but I also have some experience
+with *SVN* and *CVS*.
 
 ## Creativity and self-learning ability ##
 
