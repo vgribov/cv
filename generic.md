@@ -108,11 +108,16 @@ designed and implemented a measurement device based on the *TMS320 DSP*, which 
 experience with *Altera FPGAs* and *Verilog*. I also wrote firmware for several modules of the
 position control system, which were based on *AVR ATmega* and *AT90* chips.
 
-## Scripting languages for testing and automation ##
+## Scripting languages for testing and automation
 
-I started to use PHP as a hobby and as a part-time job, making web sites while studying at university. Then I switched to Perl as a wonderful tool to automate my everyday development tasks. Currently, I use Python and bash scripts for automation, complex feature testing, and code generation.
+I love to use *Perl* to automate my everyday development tasks — for automation, as a better
+*bash*, or as a powerful text processing tool.
 
-## Experience with various collaboration software ##
+Working on the OpenSwitch ASIC plugin, I started to use *Python*, as OpenSwitch uses *pytest* for
+functional testing. Since then, I prefer to use *Python* to write something quickly, mostly because
+of its libraries. For example, at Luxoft I automated the whole API migration process with several
+*Python* scripts that analyzed API changes, created corresponding JIRA tasks, and assigned them to
+the developers responsible for the components affected by the changes.
 
 I have worked with various task tracking systems, and collaboration software, such as Redmine, GitLab, BitBucket, Jira, Confluence, Slack, and Zulip. Last 5 years I constantly work with the Scrum framework. I prefer to use Git as a version control system and also have some experience with SVN, CVS, and Mercurial.
 
