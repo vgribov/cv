@@ -127,91 +127,136 @@ I used to work with various task tracking systems and collaboration software, su
 I mostly use *Git* as a version control system, but I also have some experience
 with *SVN* and *CVS*.
 
-## Creativity and self-learning ability ##
+## Creativity with a focus on simplicity
 
-I love to write programs. For me, it's an exciting chance to create something new and make our world better. I love code simplicity and minimalistic approach with a focus on using the standard library and avoiding unneeded external dependencies. I can be agile but prefer to have a clear specification with a road map and milestones. Before each new project, I tend to ask myself "what's new I can learn from it?". If nothing I try to introduce this "new" by myself. So I like being a team change agent.
+Years of experience in embedded development taught me that resources are limited. Thus, I prefer
+simple solutions closer to the system level with fewer dependencies and overhead. I also try to
+advocate such solutions and propose corresponding changes on different levels.
 
-## Communication and leadership skills ##
+When I came to AERQ, I quickly noticed that the current approach where parts of the main UI are
+implemented as JS-based web-applications running in a *chromium* processes is too expensive for an
+embedded system. I proposed a simpler *Qt*-based solution and in one month wrote a POC application
+implementing most of the existing UI components, which convinced our management to replace *WebOS*
+with an own *Yocto*-based operating system optimized for our needs.
 
-For the last several years I've always worked in international teams, communicating over e-mail and Zoom meetings, assigning tickets, and making code reviews on Gerrit. My colleagues note my responsiveness and reliability. At my workplace, I try to maintain a friendly atmosphere of mutual assistance. In Larch Networks I also have had six months of experience leading a team of five developers.
+## Self-learning ability
 
-## Employment ##
+Most of the things I know, I've learned from books and online articles. I like to learn new things
+and then apply them in my work.
 
-### Senior C++ Developer in Luxoft, Germany ###
+In AERQ we decided to use *Kubernetes* to control and configure our in-flight entertainment system.
+My task was to implement deployment of native applications on in-seat displays. In 3 months, I
+learned *Kubernetes API* and *Golang* and implemented a custom controller which deploys native
+applications according to corresponding resource definitions.
+
+## Communication and leadership skills
+
+For the last 8 years I've worked in international teams, communicating in different languages over
+e-mail, *Slack*, *Zoom* and *MS Teams*, assigning tickets, and making code reviews on *Gerrit* and
+*GitLab*.
+
+My colleagues note my open and direct way of communication, focused on solving the problem. I try
+to encourage transparency and knowledge sharing inside the team and establish a direct
+communication with other teams. In Larch Networks, I also had six months of experience leading a
+team of five developers.
+
+## Employment
+
+### Senior Software Developer at AERQ, Germany
+
+<http://www.aerq.com>
+
+ - **Dates**: 2021 - now.
+ - **Company description**: A startup established by Lufthansa Technik and LG Electronics to
+   develop an innovative in-flight entertainment platform.
+ - **Responsibilities**: Integration of Qt-based native applications. Wayland compositor, enabling
+   hardware accelerated video-playback. System logging and monitoring. Porting WebOS to VMware
+   virtual machine. Research.
+
+### Senior C++ Developer at Luxoft, Germany
 
 <http://www.luxoft.com>
 
- - **Dates**: 2018 - now.
- - **Company description**: an international software development company with more than 13,000 employees, 42 offices in 21 countries in North America, Western and Eastern Europe, Asia Pacific, and South Africa.
- - **Responsibilities**: Embedded software development for automotive equipment. HMI and system programming in C++ and QML. Software stability, performance analysis and communication with backend services.
+ - **Dates**: 2018 - 2021.
+ - **Company description**: an international software development company with more than 13,000
+   employees, 42 offices in 21 countries in North America, Western and Eastern Europe, Asia
+   Pacific, and South Africa.
+ - **Responsibilities**: Embedded software development for automotive equipment. HMI and system
+   programming in C++ and QML. Software stability, performance analysis and communication with
+   backend services.
 
-### Senior C++ Developer in Luxoft, Ukraine ###
+### Senior C++ Developer at Luxoft, Ukraine
 
 <http://www.luxoft.com>
 
  - **Dates**: 2017 - 2018.
- - **Company description**: an international software development company with more than 13,000 employees, 42 offices in 21 countries in North America, Western and Eastern Europe, Asia Pacific, and South Africa.
- - **Responsibilities**: Embedded software development for automotive equipment. HMI and system programming in C++ and QML. Implementation of communication protocols with backend services.
+ - **Company description**: an international software development company with more than 13,000
+   employees, 42 offices in 21 countries in North America, Western and Eastern Europe, Asia
+   Pacific, and South Africa.
+ - **Responsibilities**: Embedded software development for automotive equipment. HMI and system
+   programming in C++ and QML. Implementation of communication protocols with backend services.
 
-### Developer and Team Leader in Larch Networks, Israel ###
+### Developer and Team Leader at Larch Networks, Israel
 
 <http://www.larch-networks.com>
 
  - **Dates**: 2015 - 2017.
  - **Company description**: A systems engineering, implementation and deployment company.
- - **Responsibilities**: Embedded software development for networking equipment. Board bring-up. Network Protocols implementation. Business trips and work at the customer's side. Setting tasks and writing reports.
+ - **Responsibilities**: Embedded software development for networking equipment. Board bring-up.
+   Network Protocols implementation. Business trips and work at the customer's side. Setting tasks
+   and writing reports.
 
-### Developer in UnIT, Ukraine ###
+### Developer at UnIT, Ukraine
 
 <http://unit.com.ua>
 
  - **Dates**: 2014 - 2015
- - **Company description**: Ukrainian IT company, leader of national automated computer systems development and integration market.
+ - **Company description**: Ukrainian IT company, leader of national automated computer systems
+   development and integration market.
  - **Responsibilities**: Workstation software development.
 
-### Software Engineer in RIVS, Russia ###
+### Software Engineer at RIVS, Russia
 
 <http://www.rivs.ru>
 
  - **Dates**: 2013 - 2014
- - **Company description**: Russian company, which comprehensively solves the problem of mineral processing.
+ - **Company description**: Russian company, which comprehensively solves the problem of mineral
+   processing.
  - **Responsibilities**: Software development for analyzer. Research.
 
-### Software Engineer in SKBIS, Russia ###
+### Software Engineer at SKBIS, Russia
 
 <http://www.skbis.ru>
 
  - **Dates**: 2008 - 2013
  - **Company description**: Russian manufacturer of motion sensors for mechanical engineering.
- - **Responsibilities**: Embedded and workstation software development. Schematics development. Board bring-up. Preparation of specifications and documentation. Research.
+ - **Responsibilities**: Embedded and workstation software development. Schematics development.
+   Board bring-up. Preparation of specifications and documentation. Research.
 
-## Education ##
+## Education
 
- - In 2002 graduated from Anichkov Lyceum in St. Petersburg and entered the Faculty of Technical Cybernetics of Saint-Petersburg State Polytechnic University, to the Department of Information Systems for Environmental
-   Safety.
- - In 2006 perfectly defended the work on the "X-ray inspection system for welded joints" in Saint-Petersburg State Polytechnic University and received a bachelor's degree in engineering and technology in the direction of
-   "Instrument-Making"
- - In 2008 defended an excellent thesis on "The automatic adjustment system for optical motion sensors" in Saint-Petersburg State Polytechnic University and received a master's degree of engineering and technology in the direction of Instrument making. Specialized "Microprocessor tools and measurement software".
+ - In 2002, graduated from Anichkov Lyceum in St. Petersburg and entered the Faculty of Technical
+   Cybernetics of Saint-Petersburg State Polytechnic University, Department of Information Systems
+   for Environmental Safety.
+ - In 2006, defended perfectly the work on the "X-ray inspection system for welded joints" at
+   Saint-Petersburg State Polytechnic University and received a bachelor's degree in engineering
+   and technology in the direction of "Instrument making"
+ - In 2008, defended an excellent thesis on "The automatic adjustment system for optical motion
+   sensors" at Saint-Petersburg State Polytechnic University and received a master's degree in
+   engineering and technology in the direction of "Instrument making", specialized on
+   "Microprocessor tools and measurement software".
 
-## Languages ##
+## Human languages
 
-Russian (Native), English (Fluent), German (Intermediate)
+English, German, Ukranian and Russian
 
-## Personal information ##
+## Personal information
 
-I love jazz music and author's cinema. A few years ago I used to spend my holidays in the mountains with my snowboard. Now I prefer to be with my family doing all sorts of nonsense with my 3-year-old son.
+A few years ago, I used to spend all my holidays in the mountains with my snowboard. Now, apart
+from coding, I spend them with my family, reading books, travelling and doing all sorts of
+nonsense with my 7-year-old son. I also love music. Sometimes I even play it, at home.
 
 ## Contact Settings ##
 
-Please feel free to contact me via my [e-mail](mailto:seva.grbv@gmail.com). Always happy to advice if I can be of help.
-
-**Interested in**:
-
- - Algorithms and data structures
- - Modern C++
- - C-based open source projects
- - Linux Kernel development
- - System programming
- - Networking software
- - Embedded Qt
+Please don't hesitate to reach me via my [e-mail](mailto:seva.grbv@gmail.com).
 
